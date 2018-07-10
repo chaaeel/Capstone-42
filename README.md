@@ -1,2 +1,3 @@
 # Capstone-42
-All code that are being develop under our project in our thesis.
+All codes that are being develop here are for our project in our thesis.
+ 
